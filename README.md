@@ -6,20 +6,6 @@ MyPlot
 Have you ever seen those PC servers with the PlotMe plugin, and you thought "hey, why can't i have plots in my Pocketmine server?" Well, now you can with **MyPlot** for Pocketmine-MP! Easy to set up, and simple to use!
 </br>
 </br>
-Want to try MyPlot before you install it on your server? Check it out these awesome servers that use the plot system:
-
-</br>
-A+Craft MCPE (Official MyPlot Server)</br>
-IP: play.aplus-craft.tk</br>
-Port: 35557</br>
-</br>
-</br>
-</br>
-MinePocket</br>
-plots.Minepocket.com:19162</br>
-http://minepocket.com</br>
-</br>
-</br>
 </br>
 **COMMANDS:**
 
